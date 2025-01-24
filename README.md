@@ -68,3 +68,52 @@ Conoce más sobre la inteligencia artificial generativa y Copilot Studio accedie
 
 ![alt text](https://github.com/Copilot-Hackathon/PopularHackathon2025/blob/main/images/herramientas%20y%20aplicaciones%20de%20ia.png)
 - [Ruta de aprendizaje en Microsoft Learn](https://learn.microsoft.com/es-mx/training/paths/work-power-virtual-agents/)
+
+# Cheat Sheet
+# Prompt Design Guidelines
+
+![alt text](https://github.com/Copilot-Hackathon/PopularHackathon2025/blob/main/images/CheatSheet.png)
+
+## Key Components of a Prompt
+
+### 1. **Context**
+   - **Description**: Provide background information or relevant settings for the prompt.
+   - **Purpose**: Help set the stage for ChatGPT by offering the necessary context to understand the situation.
+
+---
+
+### 2. **Task**
+   - **Description**: Clearly define the specific job or function ChatGPT should perform.
+   - **Purpose**: Ensure clarity in what is expected from the model.
+
+---
+
+### 3. **Examples**
+   - **Description**: Include illustrative samples or detailed instructions guiding the desired output.
+   - **Purpose**: Serve as references to align ChatGPT's responses with expectations.
+
+---
+
+### 4. **Persona**
+   - **Description**: Specify the character, role, or voice style for the model's responses.  
+     *(e.g., Expert in programming, Supply Chain Manager, CEO, etc.)*
+   - **Purpose**: Shape the model's tone and knowledge depth to suit the prompt's requirements.
+
+---
+
+### 5. **Format**
+   - **Description**: Define the structure or arrangement of the output.  
+     *(e.g., Answer in bullet points, provide 3 short paragraphs, etc.)*
+   - **Purpose**: Ensure the response is delivered in a structured, user-friendly way.
+
+---
+
+### 6. **Tone**
+   - **Description**: Specify the emotional attitude or style of the response.  
+     *(e.g., Formal, casual, professional, friendly, etc.)*
+   - **Purpose**: Match the response tone to the audience and use case.
+
+---
+
+## Usage
+By combining these elements effectively, you can create prompts that produce clear, accurate, and tailored responses from ChatGPT. Use this guide to optimize your interactions and achieve your desired outcomes.
