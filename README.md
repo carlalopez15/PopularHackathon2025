@@ -116,4 +116,4 @@ Conoce más sobre la inteligencia artificial generativa y Copilot Studio accedie
 ---
 
 ## Usage
-By combining these elements effectively, you can create prompts that produce clear, accurate, and tailored responses from ChatGPT. Use this guide to optimize your interactions and achieve your desired outcomes.
+By combining these elements effectively, you can create prompts that produce clear, accurate, and tailored responses from Generative AI Tools like ChatGPT or Copilot. Use this guide to optimize your interactions and achieve your desired outcomes.
