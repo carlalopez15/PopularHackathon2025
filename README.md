@@ -95,6 +95,8 @@ Utilizaremos **Copilot Studio** para el desarrollo y entrenamiento de las soluci
 ### Recursos de Aprendizaje
 
 Conoce más sobre la inteligencia artificial generativa y Copilot Studio accediendo a estas rutas de aprendizaje self-paced:
-
+![alt text](https://github.com/Copilot-Hackathon/PopularHackathon2025/blob/main/images/productividad%20con%20ia%20generativa.png)
 - [Desarrolla tus habilidades de productividad con IA generativa con Microsoft y LinkedIn](https://es.linkedin.com/learning/paths/desarrolla-tus-habilidades-de-productividad-con-ia-generativa-con-microsoft-y-linkedin)
+
+![alt text](https://github.com/Copilot-Hackathon/PopularHackathon2025/blob/main/images/herramientas%20y%20aplicaciones%20de%20ia.png)
 - [Ruta de aprendizaje en Microsoft Learn](https://learn.microsoft.com/es-mx/training/paths/work-power-virtual-agents/)
