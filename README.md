@@ -2,6 +2,9 @@
 
 ![alt text](https://github.com/Copilot-Hackathon/PopularHackathon2025/blob/main/images/Schedule.png)
 
+## Recording
+- [Session AM Banco Popular - Hackathon Copilot Studio](https://1drv.ms/v/c/de4a2c31d0528d99/EW8OVx-neMNKhyOSoEcTwJoBCn91zDw7Hb3_Dxy4abeRAQ?e=SleAcd)
+
 ## Propuesta para el Desafío Estudiantil del Banco Popular
 
 ### Introducción
