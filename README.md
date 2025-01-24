@@ -69,6 +69,13 @@ Conoce más sobre la inteligencia artificial generativa y Copilot Studio accedie
 ![alt text](https://github.com/Copilot-Hackathon/PopularHackathon2025/blob/main/images/herramientas%20y%20aplicaciones%20de%20ia.png)
 - [Ruta de aprendizaje en Microsoft Learn](https://learn.microsoft.com/es-mx/training/paths/work-power-virtual-agents/)
 
+### Grabaciones | Sesión 24 de enero de 2025
+
+- [Sesión AM](https://1drv.ms/v/c/de4a2c31d0528d99/EW8OVx-neMNKhyOSoEcTwJoBCn91zDw7Hb3_Dxy4abeRAQ?e=IhEK3v)
+- [Sesión PM]()
+
+---
+
 # Cheat Sheet
 # Prompt Design Guidelines
 
