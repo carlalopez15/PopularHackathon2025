@@ -1,5 +1,7 @@
 # Banco Popular Copilot Challenge
 
+![alt text](https://github.com/Copilot-Hackathon/PopularHackathon2025/blob/main/images/Schedule.png)
+
 ## Propuesta para el Desafío Estudiantil del Banco Popular
 
 ### Introducción
