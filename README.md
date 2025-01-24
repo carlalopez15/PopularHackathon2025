@@ -66,5 +66,35 @@ Crear un asistente virtual inteligente que ofrezca asesoramiento financiero pers
 
 ---
 
-#### Prevención de Fraudes en
+#### Prevención de Fraudes en Tiempo Real
 
+**Problema:**  
+Los bancos enfrentan constantes intentos de fraude financiero, desde transacciones sospechosas hasta ataques más sofisticados como suplantación de identidad (phishing). Detectar estas actividades en tiempo real sin afectar la experiencia del cliente sigue siendo un gran desafío.
+
+**Reto:**  
+Desarrollar una solución que identifique patrones sospechosos en las transacciones en tiempo real, notificando al equipo correspondiente sin detener el flujo legítimo de operaciones. La solución debe integrar análisis predictivo, alertas automatizadas y priorización de casos de riesgo.
+
+---
+
+#### Optimización de Operaciones Bancarias con Predicción de Demanda
+
+**Problema:**  
+Los bancos enfrentan problemas con la gestión de sucursales, como largas filas en horarios pico o falta de personal en momentos clave.
+
+**Reto:**  
+Implementar un sistema que prediga la demanda de clientes en cada sucursal y sugiera estrategias para optimizar recursos, como redistribuir personal o habilitar servicios en línea.
+
+---
+
+### Herramientas y Datos
+
+Utilizaremos **Copilot Studio** para el desarrollo y entrenamiento de las soluciones, aprovechando la infraestructura en nube y capacidades de inteligencia artificial. Los datos serán obtenidos de fuentes confiables provistas por el Banco Popular, asegurando que nuestras soluciones estén informadas con datos más precisos y relevantes a los desafíos seleccionados.
+
+---
+
+### Recursos de Aprendizaje
+
+Conoce más sobre la inteligencia artificial generativa y Copilot Studio accediendo a estas rutas de aprendizaje self-paced:
+
+- [Desarrolla tus habilidades de productividad con IA generativa con Microsoft y LinkedIn](https://es.linkedin.com/learning/paths/desarrolla-tus-habilidades-de-productividad-con-ia-generativa-con-microsoft-y-linkedin)
+- [Ruta de aprendizaje en Microsoft Learn](https://learn.microsoft.com/es-mx/training/paths/work-power-virtual-agents/)
